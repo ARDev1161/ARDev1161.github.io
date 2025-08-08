@@ -92,7 +92,7 @@ _This section contains my publications._
 ## 👩🏼‍🎓 Education
 
 **PhD student of “Informatics and Computer Engineering”**<br>
-[KIAM RAS](https://keldysh.ru/) - Moscow, Russia _(Sep 2019 - present)_ <br>
+[KIAM RAS](https://keldysh.ru/) - Moscow, Russia _(Sep 2019 - June 2023)_ <br>
 
 **Master of “Informatics and Computer Engineering”**<br>
 [MSTU Stankin](https://stankin.ru/) - Moscow, Russia _(Sep 2017 - Aug 2019)_ <br>
