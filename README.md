@@ -1,17 +1,46 @@
 # Radomir Tarasov
 
-_Software engineer based in Moscow, Russia_ <br>
+_Software engineer based in Nis, Serbia_ <br>
 
-[Email](mailto:radtarasov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/radtarasov/) / [GitHub](https://github.com/ARDev1161/) / [Telegram](https://t.me/su_tuxracer)
+[Email](mailto:radtarasov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/radtarasov/) / [GitHub](https://github.com/ARDev1161/) / [Telegram](https://t.me/preispolnilsya_v_poznanii)
 
 ## 👩🏼‍💻 Technical Experience
+**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(October 2023 - Present)_ <br>
+  - Participated in development SNMP agent
+  - Developed ROS2 nodes architecture & implemented it for mobile service robot
+  - **_Technologies used:_** C++, C, gRPC, CMake, Buildroot, Yocto, Linear Algebra, OpenCV, QT, NetSNMP, ROS2, SLAM, Nav2, PlanSys2, Social Navigation, Robotics Safety.
+<br><be>
 
-**Junior Researcher** @ [MCST](https://mcst.ru/) _(March 2020 - Present)_ <br>
+**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(September 2022 - April 2023)_ <br>
+  - Application software development for embedded systems with an Ingenic processor based on the Buildroot
+  - Code refactoring and implementation of new functionality: UBoot updating from user space, firmware transferring via UART, etc
+  - Participated in workflow optimization: implemented the use of commitizen with the Conventional commits methodology and Doxygen documentation generation
+  - **_Technologies used:_** C++, gRPC, CMake, Buildroot, OpenCV.
+<br><be>
+
+**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(September 2022 - April 2023)_ <br>
+  - Application software development for embedded systems with an Ingenic processor based on the Buildroot
+  - Code refactoring and implementation of new functionality: UBoot updating from user space, firmware transferring via UART, etc.
+  - Participated in workflow optimization: implemented the use of commitizen with the Conventional commits methodology and Doxygen documentation generation
+  - **_Technologies used:_** C++, gRPC, CMake, Buildroot, OpenCV.
 <br><br>
 
-**Software Engineer** @ [KIAM RAS](https://keldysh.ru/) _(Jan 2019 - March 2020)_ <br>
-Creating electronic cross-board & software for service robot - AMUR-307.
-  - AMUR-307 software: [AmurClient](https://github.com/ARDev1161/AmurClient), [AmurCore](https://github.com/ARDev1161/AmurCore).
+**Senior Software Engineer** @ [Institute of Electronic Control Machines. I.S. Brook](http://ineum.ru/) _(September 2021 - April 2022)_ <be>
+  - Participated in the development of CAD packaging of electronic crystals Elbrus processors
+  - Developed a mechanism for indexing the working field of the project based on STL containers
+  - Transferred the CAD environment project from the MacaFile build system to the CMake build system
+  - **_Technologies used:_** C++, gRPC, CMake, QT, CAD, Bash, Linear Algebra, Concurrent Programming, OOP, SOLID.
+<br><be>
+
+**Junior Researcher** @ [MCST](https://mcst.ru/) _(March 2021 - September 2021)_ <be>
+  - Participated in solving signal integrity issues in DDR4 channel circuits
+  - Participated in solving signal integrity issues of motherboard power circuits with Elbrus processor
+  - **_Technologies used:_** C++, gRPC, CMake, QT, Signal Integrity, Bash, Python.
+<br><br>
+
+**Software Engineer** @ [KIAM RAS](https://keldysh.ru/) _(January 2019 - March 2021)_ <br>
+Creating electronic cross-board & software for service robot - AMUR-307
+  - AMUR-307 software: [AmurClient](https://github.com/ARDev1161/AmurClient), [AmurCore](https://github.com/ARDev1161/AmurCore)
   - **_Technologies used:_** C++, gRPC, QT, Python, OpenCV.
 <br><br>
     
