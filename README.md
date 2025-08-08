@@ -5,7 +5,7 @@ _Software engineer based in Nis, Serbia_ <br>
 [Email](mailto:radtarasov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/radtarasov/) / [GitHub](https://github.com/ARDev1161/) / [Telegram](https://t.me/preispolnilsya_v_poznanii)
 
 ## 👩🏼‍💻 Technical Experience
-**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(October 2023 - Present)_ <br>
+**Embedded Software Engineer** @ [PROMWAD](https://promwad.com/) _(October 2023 - Present)_ <br>
   - Participated in development SNMP agent
   - Developed ROS2 nodes architecture & implemented it for mobile service robot
   - **_Technologies used:_** C++, C, gRPC, CMake, Buildroot, Yocto, Linear Algebra, OpenCV, QT, NetSNMP, ROS2, SLAM, Nav2, PlanSys2, Social Navigation, Robotics Safety.
