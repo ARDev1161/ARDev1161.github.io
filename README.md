@@ -5,20 +5,20 @@ _Software engineer based in Nis, Serbia_ <br>
 [Email](mailto:radtarasov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/radtarasov/) / [GitHub](https://github.com/ARDev1161/) / [Telegram](https://t.me/preispolnilsya_v_poznanii)
 
 ## 👩🏼‍💻 Technical Experience
-**Embedded Software Engineer** @ [PROMWAD](https://promwad.com/) _(October 2023 - Present)_ <br>
+**Embedded Software Engineer** @ [PROMWAD](https://promwad.com/) _(October 2023 - Present)_ <be>
   - Participated in development SNMP agent
   - Developed ROS2 nodes architecture & implemented it for mobile service robot
   - **_Technologies used:_** C++, C, gRPC, CMake, Buildroot, Yocto, Linear Algebra, OpenCV, QT, NetSNMP, ROS2, SLAM, Nav2, PlanSys2, Social Navigation, Robotics Safety.
-<br><be>
+<br><br>
 
-**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(September 2022 - April 2023)_ <br>
+**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(September 2022 - April 2023)_ <be>
   - Application software development for embedded systems with an Ingenic processor based on the Buildroot
   - Code refactoring and implementation of new functionality: UBoot updating from user space, firmware transferring via UART, etc
   - Participated in workflow optimization: implemented the use of commitizen with the Conventional commits methodology and Doxygen documentation generation
   - **_Technologies used:_** C++, gRPC, CMake, Buildroot, OpenCV.
-<br><be>
+<br><br>
 
-**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(September 2022 - April 2023)_ <br>
+**Embedded Software Engineer** @ [DANNIE.CC](https://www.dannie.cc/) _(September 2022 - April 2023)_ <be>
   - Application software development for embedded systems with an Ingenic processor based on the Buildroot
   - Code refactoring and implementation of new functionality: UBoot updating from user space, firmware transferring via UART, etc.
   - Participated in workflow optimization: implemented the use of commitizen with the Conventional commits methodology and Doxygen documentation generation
@@ -30,7 +30,7 @@ _Software engineer based in Nis, Serbia_ <br>
   - Developed a mechanism for indexing the working field of the project based on STL containers
   - Transferred the CAD environment project from the MacaFile build system to the CMake build system
   - **_Technologies used:_** C++, gRPC, CMake, QT, CAD, Bash, Linear Algebra, Concurrent Programming, OOP, SOLID.
-<br><be>
+<br><br>
 
 **Junior Researcher** @ [MCST](https://mcst.ru/) _(March 2021 - September 2021)_ <be>
   - Participated in solving signal integrity issues in DDR4 channel circuits
@@ -38,7 +38,7 @@ _Software engineer based in Nis, Serbia_ <br>
   - **_Technologies used:_** C++, gRPC, CMake, QT, Signal Integrity, Bash, Python.
 <br><br>
 
-**Software Engineer** @ [KIAM RAS](https://keldysh.ru/) _(January 2019 - March 2021)_ <br>
+**Software Engineer** @ [KIAM RAS](https://keldysh.ru/) _(January 2019 - March 2021)_ <be>
 Creating electronic cross-board & software for service robot - AMUR-307
   - AMUR-307 software: [AmurClient](https://github.com/ARDev1161/AmurClient), [AmurCore](https://github.com/ARDev1161/AmurCore)
   - **_Technologies used:_** C++, gRPC, QT, Python, OpenCV.
